@@ -1,5 +1,4 @@
-## 👨‍💻 Felipe Marques
-🚀 Desenvolvedor Full Stack | Software Developer
+## 👨‍💻 Felipe Marques | 🚀 Desenvolvedor Full Stack | Software Developer
 
 
 Desenvolvedor Full Stack focado em desenvolvimento de software, tecnologia e criação de soluções eficientes para problemas reais.
